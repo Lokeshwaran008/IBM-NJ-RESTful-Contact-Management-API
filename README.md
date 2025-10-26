@@ -46,7 +46,7 @@ How to Run Locally
 
 Clone the repository:
 
-git clone 
+git clone https://github.com/Lokeshwaran008/IBM-NJ-RESTful-Contact-Management-API 
 
 
 Navigate to the project folder:
@@ -68,7 +68,7 @@ Open index.html in your browser and test the form.
 
 Demo
 
-
+https://github.com/Lokeshwaran008/IBM-NJ-RESTful-Contact-Management-API
 
 
 Challenges & Solutions
